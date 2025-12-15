@@ -1,570 +1,338 @@
-Below is an 8‑week, 80–20 style plan: you’ll focus on the ~20% of aptitude concepts that show up in 80% of placement tests (online assessments).  
+# 8-Week Aptitude Mastery Plan for Placements (80-20 Approach)
 
-Core areas we’ll hit repeatedly:
-- Arithmetic: Percentages, Ratio–Proportion, Averages, Simple/Compound Interest, Profit–Loss, Time–Speed–Distance, Time & Work.
-- Number Systems: Divisibility, LCM/HCF, Remainders.
-- Algebra basics: Linear equations, inequalities.
-- Data Interpretation (DI) & Basic Logical Reasoning.
-- A bit of Probability & Permutation–Combination (only the most common patterns).
+## 📊 Overview: Core 20% Topics That Matter Most
 
-Each week:
-- 4–5 core topics.
-- Concept → drilled examples → selected PYQ‑style problems (increasing difficulty).
-- Daily: 1–1.5 hours (concept + practice) on weekdays, 2–3 hours mock/mixed practice on weekends.
-
-“PYQ problems” below are generic recreations of the style/level seen in TCS, Infosys, Wipro, Capgemini, Cognizant, etc. You can find exact past questions on platforms like PrepInsta, GeeksforGeeks, IndiaBix, and company-specific sheets; use these descriptions/keywords to match them.
+Based on placement patterns, these topics appear in 80% of assessments:
+1. **Quantitative Aptitude**: Number Systems, Percentages, Profit & Loss, Time & Work
+2. **Logical Reasoning**: Series, Arrangements, Blood Relations, Coding-Decoding
+3. **Verbal Ability**: Reading Comprehension, Grammar Basics
 
 ---
 
-## Week 1 – Foundations: Percentages, Ratios, Averages, Simplifications
+## 🎯 WEEK 1: Number Systems & Basic Calculations
+**Daily Time**: 2-3 hours
 
-**Goal:** Build solid arithmetic base + comfortable with mental calculations.
+### Topics to Cover:
+- LCM, HCF, Divisibility Rules
+- Prime Numbers, Factors
+- Remainders & Unit Digits
+- Basic Calculations & BODMAS
 
-### Topics (Core 20%)
+### Practice Problems:
 
-1. Percentages (must‑master)
-   - Converting between % and fractions.
-   - % increase/decrease, successive % changes.
-   - Finding “x is what % of y” and “x% of y”.
+**Beginner (Days 1-2):**
+1. Find HCF of 144, 180, 192
+   - *Concepts*: Prime factorization, HCF calculation
+2. Check divisibility of 73458 by 6, 8, 11
+   - *Concepts*: Divisibility rules application
 
-2. Ratio & Proportion
-   - Simplifying ratios, dividing amounts in a ratio.
-   - Direct & inverse proportion basics.
+**Intermediate (Days 3-4):**
+1. Find remainder when 2^100 is divided by 7
+   - *Concepts*: Cyclicity, pattern recognition
+2. If HCF(a,b)=12 and LCM(a,b)=180, find all possible pairs
+   - *Concepts*: HCF-LCM relationship
 
-3. Averages
-   - Simple average of numbers.
-   - Effect of adding/removing values on average.
-   - Weighted averages.
+**Advanced (Days 5-7):**
+1. Find last two digits of 37^83
+   - *Concepts*: Modular arithmetic, cyclicity
+2. N = 2^4 × 3^2 × 5^3. How many factors of N are perfect squares?
+   - *Concepts*: Number of factors formula, perfect squares
 
-4. Basic Simplification & BODMAS
-   - Fast calculation, surds/decimals approximations.
-
----
-
-### Suggested Problem Types (Week 1)
-
-#### 1. Basic Percentage Calculation (Beginner)
-- Example:  
-  “What is 25% of 480?”  
-  “What percent of 80 is 20?”  
-- Reinforces:  
-  - Fraction–% conversion (25% = 1/4).  
-  - Direct multiplication/division by 100.  
-
-#### 2. Successive Percentage Changes (Intermediate)
-- Example:  
-  “The price of an item is increased by 20% and then decreased by 10%. What is the net % change?”  
-- Key concepts:
-  - Successive changes formula:  
-    Net % = a + b + (ab/100)  
-  - Thinking multiplicatively: price × 1.20 × 0.90.
-
-#### 3. Ratio Division (Beginner → Intermediate)
-- Example:  
-  “Rs. 900 is divided between A and B in the ratio 2 : 3. Find A’s share.”  
-- Concepts:
-  - Total parts = 2 + 3 = 5  
-  - A’s share = (2/5) × 900.
-
-#### 4. Mixture of Ratios & Percentages (Intermediate)
-- Example:  
-  “A’s income is 25% more than B’s. What is the ratio of A’s income to B’s?”  
-- Concepts:
-  - Convert % to ratio: 25% more → 1.25 : 1.
-
-#### 5. Basic Averages (Beginner)
-- Example:  
-  “Find the average of 24, 28, 32, 36, 40.”  
-- Concepts:
-  - Sum / count.
-  - Pattern recognition (AP).
-
-#### 6. Effect on Average (Intermediate)
-- Example:  
-  “The average of 5 numbers is 30. If one number (40) is removed, what is the new average?”  
-- Concepts:
-  - Total = average × count.
-  - Adjusting total and count.
-
-#### 7. Simplification Under Time Pressure (Beginner→Intermediate)
-- Example:  
-  “Simplify: 25% of 320 + 0.2 × 150 – 3/5 of 90”  
-- Concepts:
-  - Order of operations.
-  - Converting % and decimals to easy fractions.
+### Speed Tips:
+- Memorize squares till 30, cubes till 15
+- Learn divisibility rules for 2-11
+- Practice mental math daily (10 mins)
 
 ---
 
-**End of Week 1 Checkpoint**
-- Do 1–2 company-style mini-tests (10–15 Q, 20–25 min) only on these topics.
-- Target: ≥70% accuracy with basic speed (don’t rush yet).
+## 🎯 WEEK 2: Percentages, Profit & Loss, Discounts
+**Daily Time**: 2-3 hours
+
+### Topics to Cover:
+- Percentage calculations & changes
+- Successive percentages
+- Cost Price, Selling Price, Profit/Loss
+- Marked Price, Discounts
+
+### Practice Problems:
+
+**Beginner (Days 1-2):**
+1. A number increased by 20% then decreased by 20%. Find net change.
+   - *Concepts*: Successive percentage formula
+2. CP = ₹500, Profit = 20%. Find SP.
+   - *Concepts*: Basic P&L formula
+
+**Intermediate (Days 3-4):**
+1. Two successive discounts of 20% and 15% equal to single discount of?
+   - *Concepts*: Successive discount formula
+2. Shopkeeper marks 40% above CP, gives 20% discount. Find profit%.
+   - *Concepts*: Marked price calculations
+
+**Advanced (Days 5-7):**
+1. A dishonest dealer uses 900gm weight for 1kg and gains 20%. Find total profit%.
+   - *Concepts*: Dishonest dealings, compound calculations
+2. Population increases 10% yearly. After 3 years decreased by 30%. Net change?
+   - *Concepts*: Compound percentage changes
+
+### Speed Tips:
+- Memorize fraction-percentage conversions (1/3=33.33%, 1/7=14.28%, etc.)
+- Use multiplier method: 20% increase = ×1.2
+- Learn standard values: 16⅔% = 1/6, 12½% = 1/8
 
 ---
 
-## Week 2 – Profit & Loss, Discount, Simple Interest, Basic Number System
+## 🎯 WEEK 3: Time & Work, Pipes & Cisterns
+**Daily Time**: 2-3 hours
 
-**Goal:** Add business-math topics + number sense.
+### Topics to Cover:
+- Work efficiency concept
+- Combined work problems
+- Alternate work patterns
+- Pipes & Cisterns (filling/emptying)
 
-### Topics
+### Practice Problems:
 
-1. Profit, Loss & Discount
-   - CP, SP, MP, discount %, profit %.
-   - Marked price vs. selling price.
+**Beginner (Days 1-2):**
+1. A can do work in 10 days, B in 15 days. Together in how many days?
+   - *Concepts*: Basic efficiency addition
+2. Pipe A fills in 6 hrs, B empties in 8 hrs. Both open, time to fill?
+   - *Concepts*: Positive and negative work
 
-2. Simple Interest (SI)
-   - SI = (P × R × T) / 100.
-   - Finding any of P, R, T when others are given.
+**Intermediate (Days 3-4):**
+1. A is twice efficient as B. Together finish in 12 days. A alone?
+   - *Concepts*: Efficiency ratios
+2. A works for 5 days, B completes remaining in 9 days. B alone needs 15 days. A alone?
+   - *Concepts*: Work distribution
 
-3. Basic Number Systems
-   - Types of numbers, divisibility rules.
-   - Factors/multiples.
-   - LCM & HCF (straightforward types).
+**Advanced (Days 5-7):**
+1. A, B, C can do work in 10, 12, 15 days. A starts, then B, C join after 2 days each. Total time?
+   - *Concepts*: Sequential joining
+2. Men:Women:Children efficiency = 3:2:1. 2M+3W+4C finish in 10 days. Find 3M+2W+3C.
+   - *Concepts*: Efficiency ratios, man-days concept
 
----
-
-### Suggested Problem Types (Week 2)
-
-#### 1. Basic Profit–Loss (Beginner)
-- Example:  
-  “A shopkeeper buys an article for Rs. 800 and sells it for Rs. 920. Find profit %.”  
-- Concepts:
-  - Profit = SP – CP.  
-  - Profit % = (Profit/CP) × 100.
-
-#### 2. Discount & Marked Price (Intermediate)
-- Example:  
-  “An article is marked at Rs. 1000 and sold at 20% discount. Find SP and loss/profit % if CP is 750.”  
-- Concepts:
-  - Discounted SP = MP × (1 – d%).  
-  - Compare SP with CP.
-
-#### 3. Successive Discounts (Intermediate→Advanced)
-- Example:  
-  “Shopkeeper offers 10% and 15% successive discounts on an item. What is the single equivalent discount?”  
-- Concepts:
-  - Equivalent discount = a + b – (ab/100).
-
-#### 4. Simple Interest (Beginner)
-- Example:  
-  “Find SI on Rs. 5000 at 10% per annum for 3 years.”  
-- Concepts:
-  - Direct substitution in SI formula.
-
-#### 5. Finding Rate/Time Using SI (Intermediate)
-- Example:  
-  “SI on Rs. 4000 for 2 years is Rs. 640. Find the rate.”  
-- Concepts:
-  - Rearranging formula: R = (SI × 100) / (P×T).
-
-#### 6. Divisibility & Factors (Beginner)
-- Example:  
-  “Is 3276 divisible by 3, 4, 9, 11?”  
-- Concepts:
-  - Divisibility rules (3, 5, 9, 11 etc.).
-
-#### 7. LCM/HCF Word Problem (Intermediate)
-- Example:  
-  “Find the least number which when divided by 6, 8 and 15 leaves remainder 2 in each case.”  
-- Concepts:
-  - Number = LCM(6,8,15) × k + 2.
+### Speed Tips:
+- Use LCM method for total work units
+- Remember: Rate × Time = Work
+- Convert everything to per-day rates
 
 ---
 
-**End of Week 2 Checkpoint**
-- Mixed practice: Week 1 + Week 2 topics, 20–25 Q in 30–35 min.
-- Note which question types feel slow and revisit.
+## 🎯 WEEK 4: Logical Reasoning - Series & Patterns
+**Daily Time**: 2-3 hours
+
+### Topics to Cover:
+- Number Series
+- Letter Series  
+- Mixed Series
+- Finding missing terms
+
+### Practice Problems:
+
+**Beginner (Days 1-2):**
+1. 2, 6, 12, 20, 30, ?
+   - *Concepts*: Difference patterns (n²+n)
+2. AZ, BY, CX, DW, ?
+   - *Concepts*: Letter positioning patterns
+
+**Intermediate (Days 3-4):**
+1. 3, 8, 18, 38, 78, ?
+   - *Concepts*: Second-order differences
+2. 1, 1, 2, 6, 24, ?
+   - *Concepts*: Factorial patterns
+
+**Advanced (Days 5-7):**
+1. 7, 26, 63, 124, 215, ?
+   - *Concepts*: Cube patterns (n³-1)
+2. 2, 3, 8, 27, 112, ?
+   - *Concepts*: Mixed operations pattern
+
+### Speed Tips:
+- Check differences, ratios, squares/cubes
+- For letters: note positions (A=1, Z=26)
+- Look for alternating patterns
 
 ---
 
-## Week 3 – Time, Speed & Distance; Time & Work; Advanced Percent/Ratios
+## 🎯 WEEK 5: Arrangements & Puzzles
+**Daily Time**: 2-3 hours
 
-**Goal:** Master core “work-rate” and “distance-rate” patterns.
+### Topics to Cover:
+- Linear arrangements
+- Circular arrangements
+- Floor-based puzzles
+- Grid arrangements
 
-### Topics
+### Practice Problems:
 
-1. Time, Speed & Distance (TSD)
-   - Basic formula: Distance = Speed × Time.
-   - Relative speed, average speed.
+**Beginner (Days 1-2):**
+1. Five friends sitting in a row. A not at ends, B left of C, D between A and B. Arrange.
+   - *Concepts*: Linear positioning, constraints
+2. Six people around circular table. A opposite B, C right of A. Complete arrangement.
+   - *Concepts*: Circular arrangement basics
 
-2. Time & Work
-   - Work = Rate × Time.
-   - A, B working together, efficiency concept.
+**Intermediate (Days 3-4):**
+1. 7-floor building, 7 people. Given complex conditions about who lives above/below whom.
+   - *Concepts*: Vertical arrangements, multiple constraints
+2. 3×3 grid puzzle with given conditions about positions.
+   - *Concepts*: Grid logic, elimination
 
-3. Compound Percentage in Context
-   - Successive % in salary/income problems.
+**Advanced (Days 5-7):**
+1. 8 people, 4 couples, circular arrangement with couple constraints.
+   - *Concepts*: Complex circular arrangements
+2. Tournament scheduling: 6 teams, each plays once, given partial schedule.
+   - *Concepts*: Matrix arrangements, deduction
 
----
-
-### Suggested Problem Types (Week 3)
-
-#### 1. Basic TSD (Beginner)
-- Example:  
-  “A car travels 150 km at 50 km/h. How long does it take?”  
-- Concepts:
-  - t = d / s.
-
-#### 2. Average Speed with Two Different Speeds (Intermediate)
-- Example:  
-  “A man travels from A to B at 40 km/h and returns at 60 km/h. Find his average speed for the whole journey.”  
-- Concepts:
-  - Harmonic mean when equal distances:  
-    Avg speed = (2ab)/(a+b).
-
-#### 3. Relative Speed – Same Direction/Opposite (Intermediate)
-- Example:  
-  “Two trains of speeds 60 km/h and 40 km/h travel in the same direction. Faster train overtakes the slower in 30 min. If the length of slower train is 200 m, find length of faster train.”  
-- Concepts:
-  - Relative speed = difference in same direction.  
-  - Convert km/h to m/s.
-
-#### 4. Basic Time & Work (Beginner)
-- Example:  
-  “A can do a job in 10 days, B in 15 days. How long if they work together?”  
-- Concepts:
-  - A’s rate = 1/10, B’s rate = 1/15, sum = total rate.
-
-#### 5. Time & Work with Fraction Completed (Intermediate)
-- Example:  
-  “A can do a work in 12 days, B in 18 days. They start together; B leaves after 4 days. In how many more days will A finish the rest?”  
-- Concepts:
-  - Work done = rate × time.  
-  - Remaining work concept.
-
-#### 6. Pipes & Cisterns Variation (Intermediate→Advanced)
-- Example:  
-  “Pipe A fills a tank in 6 hours, Pipe B in 8 hours, Pipe C empties it in 12 hours. If all opened together, how long to fill empty tank?”  
-- Concepts:
-  - Net rate = a + b – c.
+### Speed Tips:
+- Draw diagrams immediately
+- Use elimination method
+- Mark definite vs possible positions
 
 ---
 
-**End of Week 3 Checkpoint**
-- 1 sectional test on TSD + Time & Work (10–15 Q, 20 min).
-- Review every missed question; identify the pattern (relative speed, combined work, etc.).
+## 🎯 WEEK 6: Blood Relations & Coding-Decoding
+**Daily Time**: 2-3 hours
+
+### Topics to Cover:
+- Family tree problems
+- Coded relations
+- Letter/Number coding
+- Symbol coding
+
+### Practice Problems:
+
+**Beginner (Days 1-2):**
+1. A is B's sister. C is B's mother. D is C's father. How is A related to D?
+   - *Concepts*: Generation levels, gender tracking
+2. If HOUSE = IPVTF, then CHAIR = ?
+   - *Concepts*: Letter shifting patterns
+
+**Intermediate (Days 3-4):**
+1. Pointing to a photo, man says "His mother is my father's only daughter." Relation?
+   - *Concepts*: Complex statement analysis
+2. In a code, 'pit na sa' means 'you are welcome'. Decode given statements.
+   - *Concepts*: Word-code mapping
+
+**Advanced (Days 5-7):**
+1. Complex family with 3 generations, minimum members satisfying conditions?
+   - *Concepts*: Minimum member problems
+2. Multi-level coding where CODE→FRGH→IUJK. Find pattern.
+   - *Concepts*: Multiple transformation rules
+
+### Speed Tips:
+- For relations: always draw family tree
+- Use symbols: □ for male, ○ for female
+- In coding: check +/- patterns, alternating rules
 
 ---
 
-## Week 4 – Mixtures & Alligations, More Number System, Simple Algebra
+## 🎯 WEEK 7: Speed Mathematics & Shortcuts
+**Daily Time**: 2-3 hours
 
-**Goal:** Handle mixture problems & strengthen basic algebra/number sense.
+### Topics to Cover:
+- Vedic math tricks
+- Approximation techniques
+- Quick calculation methods
+- Time-saving formulas
 
-### Topics
+### Practice Problems:
 
-1. Mixtures & Alligations
-   - Mixing two solutions with different concentrations.
-   - Replacement problems (removing and adding).
+**Beginner (Days 1-2):**
+1. 998 × 1002 (use (a-b)(a+b) = a²-b²)
+   - *Concepts*: Algebraic identities
+2. Find 35% of 280 mentally
+   - *Concepts*: Percentage shortcuts
 
-2. Number System (Remainders/Mod)
-   - Remainders on division.
-   - Basic modular arithmetic patterns (last digit, etc.)
+**Intermediate (Days 3-4):**
+1. √(15.21) approximately equals?
+   - *Concepts*: Square root approximation
+2. 73 × 77 using Vedic method
+   - *Concepts*: Vedic multiplication
 
-3. Basic Linear Equations/Inequalities
-   - Solving 1-variable and 2-variable equations.
-   - Translating word problems.
+**Advanced (Days 5-7):**
+1. (1.08)^5 approximate value?
+   - *Concepts*: Binomial approximation
+2. Find unit digit of 3^45 × 7^33 × 9^28
+   - *Concepts*: Cyclicity combined
 
----
-
-### Suggested Problem Types (Week 4)
-
-#### 1. Simple Mixture Problem (Beginner)
-- Example:  
-  “In a 20 L solution, 30% is alcohol. How much alcohol is there?”  
-- Concepts:
-  - Basic % of quantity.
-
-#### 2. Alligation for Two Quantities (Intermediate)
-- Example:  
-  “In what ratio must water be mixed with milk costing Rs. 20/L so that the mixture costs Rs. 16/L?”  
-- Concepts:
-  - Alligation rule:  
-    (CPmilk – CPmix) : (CPmix – CPwater).
-
-#### 3. Replacement Problem (Intermediate→Advanced)
-- Example:  
-  “A container has 40 L milk. 8 L is removed and replaced with water. Process repeated two more times. What is quantity of milk left?”  
-- Concepts:
-  - Repeated dilution: Final qty = initial × (1 – removed/total)^n.
-
-#### 4. Simple Remainder Problem (Beginner)
-- Example:  
-  “Find remainder when 1234 is divided by 7.”  
-- Concepts:
-  - Long division or modular reduction.
-
-#### 5. Last Digit / Cyclicity (Intermediate)
-- Example:  
-  “Find the last digit of 7^45.”  
-- Concepts:
-  - Pattern in powers of 7: 7,9,3,1 → cycle length 4.  
-  - 45 mod 4 = 1 → last digit 7.
-
-#### 6. Linear Equations Word Problem (Beginner→Intermediate)
-- Example:  
-  “Sum of two numbers is 35 and difference is 9. Find the numbers.”  
-- Concepts:
-  - Form equations: x + y = 35, x – y = 9.
+### Speed Tips:
+- Learn 11-19 multiplication tricks
+- Master squares till 30
+- Use benchmarking for approximations
 
 ---
 
-**End of Week 4 Checkpoint**
-- Attempt 1 mixed mini-test: Weeks 1–4 topics, 25–30 Q in 40–45 min.
-- Now start tracking time per question: aim ~1.5–2 min per question average.
+## 🎯 WEEK 8: Mixed Practice & Mock Tests
+**Daily Time**: 3-4 hours
+
+### Structure:
+- **Days 1-2**: Topic-wise revision tests (30 questions, 30 mins each)
+- **Days 3-4**: Mixed aptitude tests (50 questions, 60 mins)
+- **Days 5-6**: Full mock tests (75-100 questions, 90-120 mins)
+- **Day 7**: Analysis and weak area focus
+
+### Mock Test Strategy:
+1. **Attempt Strategy**:
+   - First pass: Easy questions (30% time)
+   - Second pass: Moderate questions (50% time)
+   - Third pass: Difficult/lengthy (20% time)
+
+2. **Time Management**:
+   - Number Series: 30-45 seconds
+   - Arithmetic: 60-90 seconds
+   - Puzzles: 2-3 minutes
+   - Don't spend >3 minutes on any question
+
+3. **Accuracy Focus**:
+   - Attempt only 80% questions with 95% accuracy > 100% with 70% accuracy
+   - Skip if calculation seems >2 minutes
 
 ---
 
-## Week 5 – Data Interpretation (DI), Tables/Graphs, Basic Logical Reasoning
+## 📈 Progress Tracking Metrics
 
-**Goal:** Get comfortable reading tables, bar graphs, pie charts, and handling LR patterns.
+### Weekly Targets:
+- **Week 1-2**: 60% accuracy, 40 questions/hour
+- **Week 3-4**: 70% accuracy, 45 questions/hour
+- **Week 5-6**: 80% accuracy, 50 questions/hour
+- **Week 7-8**: 85% accuracy, 55-60 questions/hour
 
-### Topics
-
-1. Data Interpretation
-   - Reading tables.
-   - Pie charts, bar graphs, line graphs.
-   - Percent change, ratio, comparisons.
-
-2. Basic Logical Reasoning (Quant-type)
-   - Seating arrangements (small).
-   - Simple puzzles (distribution, ranking).
+### Daily Practice Requirements:
+- **Minimum**: 30 questions across topics
+- **Timed Practice**: 2 sets of 15 questions (15 mins each)
+- **Analysis Time**: 30 mins reviewing mistakes
 
 ---
 
-### Suggested Problem Types (Week 5)
+## 🎯 Post 8-Week Continuation
 
-#### 1. Table-Based DI (Beginner)
-- Example:  
-  “Given a table of sales of 4 products (A,B,C,D) across 4 years, answer:  
-   – Total sales of A over 4 years.  
-   – In which year was B’s sale maximum?  
-   – What % of total sales in 2020 was from product C?”  
-- Concepts:
-  - Summation, average, % from total, quick scanning.
+### Advanced Topics (80% remaining):
+- Probability & Permutations
+- Coordinate Geometry
+- Data Interpretation
+- Advanced Puzzles
+- Critical Reasoning
 
-#### 2. Pie Chart DI (Intermediate)
-- Example:  
-  “A pie chart shows % distribution of total company expenditure. If total expenditure is Rs. 20 lakh, find actual amounts on ‘Salaries’, ‘Rent’, etc.”  
-- Concepts:
-  - Converting % slice to quantity: slice% × total.
+### Resources for Practice:
+1. **Previous Year Questions**: TCS NQT, Infosys, Wipro papers
+2. **Platforms**: IndiaBix, PrepInsta, GeeksforGeeks
+3. **Books**: Quantitative Aptitude by R.S. Aggarwal (selected chapters)
 
-#### 3. Bar Graph Comparisons (Intermediate)
-- Example:  
-  “Bar graph shows students in 5 departments over 3 years. Questions involve % increase, ratio of departments, etc.”  
-- Concepts:
-  - Multi-step calculation: % increase = (new–old)/old × 100.
-
-#### 4. Simple LR – Distribution (Beginner→Intermediate)
-- Example:  
-  “4 friends – A, B, C, D – each likes a different fruit from {Apple, Banana, Mango, Orange}. Given clues, determine who likes what.”  
-- Concepts:
-  - Systematic table filling.
-  - Elimination, deduction.
-
-#### 5. Linear Seating (Intermediate)
-- Example:  
-  “6 people sit in a row facing North. Clues like ‘A is to the left of B’, ‘C is at an extreme end’ etc. Determine final order.”  
-- Concepts:
-  - Visual arrangement, conditional reasoning.
+### Success Metrics:
+- Consistently scoring 80%+ in mock tests
+- Completing 60 questions in 60 minutes
+- <5% silly mistakes
+- Comfortable with all core topics
 
 ---
 
-**End of Week 5 Checkpoint**
-- 1 DI-focused test (10–12 Q, 20 min).
-- Emphasize quick reading, underlining key numbers, not over-calculating when approximation is enough.
+## 💡 Golden Rules for Success
 
----
+1. **Consistency > Intensity**: 2 hours daily > 10 hours weekly
+2. **Analysis > Practice**: Understanding why you got it wrong matters more
+3. **Speed follows Accuracy**: First get it right, then get it fast
+4. **Pattern Recognition**: Most questions are variations of 50-60 base patterns
+5. **Elimination Technique**: Sometimes finding what's NOT the answer is faster
 
-## Week 6 – Probability, Permutation & Combination (Core Patterns Only)
+Remember: This plan covers the critical 20% that appears in 80% of placement tests. Master these first, then expand to other topics. Focus on understanding concepts, not memorizing solutions.
 
-**Goal:** Learn only the frequent P&C/Probability patterns that appear in OA tests.
-
-### Topics
-
-1. Basic Permutation & Combination
-   - nPr, nCr formulas.
-   - Simple selection vs arrangement.
-   - “Forming numbers/words from digits/letters” (no heavy combinatorics).
-
-2. Elementary Probability
-   - Probability = favorable / total.
-   - Coins, dice, cards (only standard types).
-
----
-
-### Suggested Problem Types (Week 6)
-
-#### 1. Arrangements of Distinct Objects (Beginner)
-- Example:  
-  “In how many ways can the letters of the word ‘CAT’ be arranged?”  
-- Concepts:
-  - n! for distinct letters.
-
-#### 2. Arrangements with Some Constraints (Intermediate)
-- Example:  
-  “In how many ways can the letters of ‘APPLE’ be arranged?”  
-- Concepts:
-  - Repetition: total = 5! / (2!2!) (two P’s, two L? correction: A,P,P,L,E → 5! /2!).
-
-#### 3. Digits Forming Numbers (Intermediate→Advanced)
-- Example:  
-  “How many 3-digit even numbers can be formed using digits {1,2,3,4,5} without repetition?”  
-- Concepts:
-  - Position-wise counting.  
-  - Constraints of even last digit.
-
-#### 4. Basic Probability – Coins & Dice (Beginner)
-- Example:  
-  “Two fair dice are rolled. What is probability that sum is 7?”  
-- Concepts:
-  - Sample space size (36).  
-  - Counting favorable outcomes.
-
-#### 5. Probability Involving Cards (Intermediate)
-- Example:  
-  “From a standard deck of 52 cards, what is probability of drawing either a king or a queen?”  
-- Concepts:
-  - Addition rule: P(A∪B) = P(A)+P(B)–P(A∩B).  
-  - Basic combinatorial counting.
-
----
-
-**End of Week 6 Checkpoint**
-- One P&C/Probability section test (10–12 Q, 20–25 min).
-- Your goal is correct pattern recognition; speed will improve with more similar problems.
-
----
-
-## Week 7 – Mixed Practice + Speed Building + Advanced Variants
-
-**Goal:** Combine all prior topics, increase speed and accuracy under timed conditions.
-
-### Topics
-
-- Mixed problem sets from:
-  - Percentages, Ratios, Averages.
-  - Profit–Loss, SI.
-  - TSD, Time & Work, Mixtures.
-  - DI + basic LR.
-  - Probability & P&C patterns.
-
----
-
-### Problem Strategy (Week 7)
-
-1. **Beginner–Intermediate Mixed Sets (Day 1–2)**
-   - 20–25 questions combining easy–medium from all topics.
-   - Time: 35–40 min.  
-   - Focus:  
-     - Fixing careless mistakes.  
-     - Applying the right formula immediately.
-
-2. **Intermediate–Advanced Mixed Sets (Day 3–4)**
-   - Include trickier versions like:
-     - Time & Work with 3 people, some leaving after some days.
-     - Successive discounts + profit in the same question.
-     - TSD with multiple legs of journey and waiting time.
-   - Example type:  
-     “A and B can complete a work in 12 days. B alone can do same work in 30 days. In how many days can A alone complete it?”  
-   - Concepts:
-     - Combined rate, then subtract to find individual.
-
-3. **PYQ-style DI+Quant Section (Day 5)**
-   - 25–30 Q, 45–50 min, exactly like a real OA section.
-   - Mark any question type that takes >3 min, analyze later.
-
-4. **Revision & Error Log (Weekend)**
-   - Make a list:
-     - Formulas you forget.
-     - Patterns you misinterpret.
-   - Re-solve 20–30 questions only from weak areas.
-
----
-
-## Week 8 – Full Mock Tests, Strategy, and Fine-Tuning
-
-**Goal:** Simulate real test environment & refine test-taking strategy.
-
-### Focus Areas
-
-1. Exam Strategy
-   - Attempt easy questions first (one pass).
-   - Skip and mark time-consuming ones for second pass.
-   - Manage sectional timing (if applicable).
-
-2. Full-Length Mock Tests
-   - Ideally: 3–4 full mocks over the week.  
-     Each: 60–90 min, 30–40 aptitude questions (depending on pattern of target companies).
-
-3. Post-Mock Analysis (Most Important)
-   For each mock:
-   - Categorize wrong Qs into:
-     1. Conceptual gap (you truly didn’t know).
-     2. Misread question / silly error.
-     3. Time management issue (couldn’t finish).
-   - For (1): Revisit that topic (e.g., remainder theorems, Alligation formula, etc.).
-   - For (2): Train yourself to underline keywords (not, at least, at most, more than, etc.).
-   - For (3): Learn to skip early; don’t get stuck.
-
----
-
-## How to Use This Plan Day-to-Day
-
-A simple daily framework (Week 1–6):
-
-- **30–40 min**: Concept review  
-  - Watch a short tutorial or read notes.  
-  - Write key formulas by hand.
-
-- **40–60 min**: Practice  
-  - 10–15 easy→medium questions (drill).  
-  - 3–5 tougher questions that make you think.
-
-- **10–15 min**: Review  
-  - Check solutions, mark questions that were tricky.  
-  - Write 1–2 line notes: “Mistake: forgot to multiply time; correct approach: …”
-
----
-
-## Where to Find Actual PYQs / Practice Sets
-
-Search for these keywords/platforms and match them with the “problem types” above:
-
-- Platforms:
-  - GeeksforGeeks – “Aptitude for Placements”
-  - PrepInsta – company-wise questions (TCS, Infosys, Wipro, Accenture, Capgemini, etc.)
-  - IndiaBix – topic-wise questions.
-- Search phrases:
-  - “TCS NQT previous year aptitude questions pdf”
-  - “Infosys aptitude PYQ with solutions”
-  - “Wipro Elite NLTH aptitude questions”
-  - “Capgemini aptitude practice questions”
-
-Filter by **topic** (Percentages, Time & Work, DI, etc.) and difficulty (easy–medium–hard). Use the problem descriptions above to tag each question you solve.
-
----
-
-## Final Tips for Speed & Accuracy
-
-1. **Mental Math Practice**
-   - Daily 5–10 min:  
-     - Squares up to 30, cubes up to 15, common fractions–percentages (1/2=50%, 1/3≈33.3%, 1/4=25%, etc.).
-   - This alone will cut 20–30 seconds per question.
-
-2. **Pattern Recognition Over Rote**
-   - Ask “What type is this?” before solving:
-     - “This is a mixture–replacement question.”  
-     - “This is a work-rate with people entering/leaving.”  
-   - Once type is clear, use the standard template.
-
-3. **Timed Sets, Not Single Questions**
-   - Always practice 5–10 questions in a row with a timer, not just one-by-one untimed.
-
-4. **Error Log Is Your Gold**
-   - Don’t just do new questions. Re-solve your own wrong/marked questions weekly.
-
----
-
-If you share:
-- Which companies you’re mainly targeting, and  
-- Rough current comfort level (e.g., totally new vs. some school-level familiarity),
-
-I can customize this 8‑week outline into a day-by-day schedule with specific daily question counts and suggested online resources per topic.
+**Track your progress daily and adjust the pace based on your comfort level. Good luck with your preparation!** 🚀
